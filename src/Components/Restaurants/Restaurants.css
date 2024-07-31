@@ -1,0 +1,26 @@
+.RestaurantPage{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3rem;
+    /* background-color: aquamarine; */
+    padding-bottom: 2rem;
+}
+.restaurants{
+   width: 100%;
+   padding: 0 3rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   gap: 1rem;
+}
+.filter{
+    padding: 2rem 6.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

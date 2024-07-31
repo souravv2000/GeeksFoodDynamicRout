@@ -1,0 +1,44 @@
+.footerContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    background-color: rgb(97, 108, 78);
+    padding: 2rem 0;
+    bottom: 0;
+}
+.footerContainer p{
+    width: 26rem;
+    text-align: center;
+}
+.footerList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+   
+}
+.footerList li{
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    list-style: none;
+}
+.footerList li:hover{
+    color: rgb(120, 181, 181);
+}
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.social li{
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    list-style: none;
+}
+.social li:hover{
+    transform: scale(1.4);
+}

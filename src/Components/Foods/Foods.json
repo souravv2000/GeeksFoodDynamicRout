@@ -1,0 +1,602 @@
+ [
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "url":"https://images.unsplash.com/photo-1719250726371-b4076d48ce6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3BhZ2hldHRpJTIwY2FyYm9uYXJhfGVufDB8fDB8fHww",
+        "price":"$120",
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Parmesan cheese",
+            "Pancetta",
+            "Black pepper",
+            "Salt"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Chicken Caesar Salad",
+        "url":"https://plus.unsplash.com/premium_photo-1710408904453-51db30221110?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Q2hpY2tlbiUyMENhZXNhciUyMFNhbGFkJTIyJTJDfGVufDB8fDB8fHww",
+        "price":"$220",
+        "ingredients": [
+            "Chicken breast",
+            "Romaine lettuce",
+            "Caesar dressing",
+            "Croutons",
+            "Parmesan cheese",
+            "Black pepper"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chicken Tacos",
+        "url":"https://media.istockphoto.com/id/1195564226/photo/chicken-taco.jpg?s=2048x2048&w=is&k=20&c=wTwZB7Y3Hqrb3KU57mXpZWRez34_-PuGeXw8bIhd8Q8=",
+        "price":"$150",
+        "ingredients": [
+            "Ground Chicken",
+            "Taco seasoning",
+            "Taco shells",
+            "Lettuce",
+            "Tomato",
+            "Cheddar cheese",
+            "Sour cream"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Vegetable Stir-Fry",
+        "url":"https://images.unsplash.com/photo-1543826173-1beeb97525d8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VmVnZXRhYmxlJTIwU3RpciUyMEZyeXxlbnwwfHwwfHx8MA%3D%3D",
+        "price":"$100",
+        "ingredients": [
+            "Mixed vegetables",
+            "Soy sauce",
+            "Garlic",
+            "Ginger",
+            "Sesame oil",
+            "Rice"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Margherita Pizza",
+        "url":"https://media.istockphoto.com/id/1404892450/photo/pizza-margherita.webp?b=1&s=170667a&w=0&k=20&c=opGNhIniWrLMvRjLBT0FsKUjf1MQQ6IOyL4dDTolv1M=",
+        "price":"$180",
+        "ingredients": [
+            "Pizza dough",
+            "Tomato sauce",
+            "Mozzarella cheese",
+            "Fresh basil",
+            "Olive oil"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Chicken Alfredo",
+        "url":"https://media.istockphoto.com/id/506916161/photo/homemade-fettucini-aflredo-pasta.webp?b=1&s=170667a&w=0&k=20&c=1Jz4TVOtKf3n3EiLm06-15PYMdJFGQzpoxNeKYQ2_ec=",
+        "price":"$320",
+        "ingredients": [
+            "Fettuccine pasta",
+            "Chicken breast",
+            "Heavy cream",
+            "Parmesan cheese",
+            "Garlic",
+            "Butter"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Greek Salad",
+        "url":"https://media.istockphoto.com/id/1202693238/photo/greek-salad-with-greens-olives-and-feta-chesse-on-a-white-plate-top-view.webp?b=1&s=170667a&w=0&k=20&c=IzjXW18sk1BmVR4xskJDe1rTMpiblNeHvGzCqMr1vO0=",
+        "price":"$120",
+        "ingredients": [
+            "Cucumbers",
+            "Tomatoes",
+            "Red onion",
+            "Kalamata olives",
+            "Feta cheese",
+            "Olive oil",
+            "Oregano"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Chicken Stroganoff",
+        "url":"https://media.istockphoto.com/id/839982816/photo/pan-fried-chicken-in-mushroom-cream-sauce.webp?b=1&s=170667a&w=0&k=20&c=MLgEbm-17o3zq_j7YL1mzwz1PFsabaA1NrOudlWxcMI=",
+        "price":"$160",
+        "ingredients": [
+            "Chicken strips",
+            "Mushrooms",
+            "Onion",
+            "Beef broth",
+            "Sour cream",
+            "Dijon mustard",
+            "Butter"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Shrimp Scampi",
+        "url":"https://images.unsplash.com/photo-1625943553852-781c6dd46faa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U2hyaW1wJTIwU2NhbXBpfGVufDB8fDB8fHww",
+        "price":"$100",
+        "ingredients": [
+            "Shrimp",
+            "Garlic",
+            "Lemon juice",
+            "White wine",
+            "Butter",
+            "Parsley",
+            "Pasta"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Vegetarian Chili",
+        "url":"https://images.unsplash.com/photo-1648422709905-8c3d148974e1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFZlZ2V0YXJpYW4lMjBDaGlsaXxlbnwwfHwwfHx8MA%3D%3D",
+        "price":"$120",
+        "ingredients": [
+            "Kidney beans",
+            "Black beans",
+            "Corn",
+            "Tomatoes",
+            "Onion",
+            "Bell peppers",
+            "Chili powder",
+            "Garlic"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Chicken Noodle Soup",
+        "url":"https://media.istockphoto.com/id/172999861/photo/serving-of-chicken-noodle-soup-in-a-bowl.webp?b=1&s=170667a&w=0&k=20&c=GPAXzhjJl3X4lYKBAmiwbIIHXoJus0r0SJpoSANyqyA=",
+        "price":"$130",
+        "ingredients": [
+            "Chicken breast",
+            "Egg noodles",
+            "Carrots",
+            "Celery",
+            "Chicken broth",
+            "Onion",
+            "Garlic",
+            "Thyme"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Chicken Burgers",
+        "url":"https://media.istockphoto.com/id/539243164/photo/crispy-chicken-burger.webp?b=1&s=170667a&w=0&k=20&c=eLj74yE0qFmqBNg59wJPZEhqZSvJDuSxKwq5lgC3AGI=",
+        "price":"$220",
+        "ingredients": [
+            "Chicken",
+            "Hamburger buns",
+            "Lettuce",
+            "Tomato",
+            "Onion",
+            "Cheese slices",
+            "Ketchup",
+            "Mustard"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Vegetable Soup",
+        "url":"https://media.istockphoto.com/id/1092632832/photo/vegetable-soup.webp?b=1&s=170667a&w=0&k=20&c=y7TLFJFEFSToHhcXuPRW5nVh8u2QT45zuMXp0oEbfXo=",
+        "price":"$80",
+        "ingredients": [
+            "Carrots",
+            "Potatoes",
+            "Celery",
+            "Tomatoes",
+            "Vegetable broth",
+            "Onion",
+            "Garlic",
+            "Herbs"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Chicken Parmesan",
+        "url":"https://media.istockphoto.com/id/1362340623/photo/chicken-parmigiano-with-linguini-pasta-on-a-plate-black-background.webp?b=1&s=170667a&w=0&k=20&c=ZjLVury3xIxW9Ygf5UlUkekDDY9f49ALRBqTVSp0XWk=",
+        "price":"$150",
+        "ingredients": [
+            "Chicken breasts",
+            "Marinara sauce",
+            "Mozzarella cheese",
+            "Parmesan cheese",
+            "Bread crumbs",
+            "Eggs",
+            "Spaghetti"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Tandoori Chicken",
+        "url":"https://media.istockphoto.com/id/1202675674/photo/chicken-tikka.webp?b=1&s=170667a&w=0&k=20&c=Ga-IS1rGBwdZUBZnMqm6DaWpCuqV_6PjZEx0e2nWryY=",
+        "price":"$420",
+        "ingredients": [
+            "Chicken pieces",
+            "Tandoori spice mix",
+            "Yogurt",
+            "Lemon juice",
+            "Garlic",
+            "Ginger",
+            "Cilantro"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Caesar Wrap",
+        "url":"https://media.istockphoto.com/id/1151273838/photo/caesar-roll-with-chicken.webp?b=1&s=170667a&w=0&k=20&c=kPghUS_CCZhPYNPHPjjvNycc-XvlejNTZNZA_QnTn1g=",
+        "price":"$115",
+        "ingredients": [
+            "Tortilla wraps",
+            "Chicken breast",
+            "Caesar dressing",
+            "Romaine lettuce",
+            "Parmesan cheese",
+            "Croutons"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Pulled Pork Sandwiches",
+        "url":"https://media.istockphoto.com/id/1349072485/photo/pulled-pork-sandwich-on-a-brioche-bun.webp?b=1&s=170667a&w=0&k=20&c=1vrbTdLUHdYJz8_5XpqngYGdnROg2a-OOXlum5E7mMI=",
+        "price":"$140",
+        "ingredients": [
+            "Pork shoulder",
+            "BBQ sauce",
+            "Coleslaw",
+            "Hamburger buns",
+            "Onion",
+            "Pickles"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Chicken Fajitas",
+        "url":"https://media.istockphoto.com/id/507532058/photo/mexican-grilled-chicken-fajitas-in-iron-skillet.webp?b=1&s=170667a&w=0&k=20&c=lK1U89QJhDqmvO_vlnJ5x-3Ki1hHC7mCiNRL7emikvw=",
+        "price":"$135",
+        "ingredients": [
+            "Chicken breast",
+            "Bell peppers",
+            "Onion",
+            "Fajita seasoning",
+            "Tortillas",
+            "Sour cream",
+            "Guacamole"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Pancakes",
+        "url":"https://media.istockphoto.com/id/1137114428/photo/homemade-colorful-pancakes.webp?b=1&s=170667a&w=0&k=20&c=TQX3Wc2TfGntmBAbVVtz4QNQ17AIEMAx27xKYcgF6Mc=",
+        "price":"$60",
+        "ingredients": [
+            "Flour",
+            "Milk",
+            "Eggs",
+            "Baking powder",
+            "Sugar",
+            "Salt",
+            "Butter"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Grilled Cheese Sandwich",
+        "url":"https://media.istockphoto.com/id/1482857499/photo/grilled-cheese-sandwich.webp?b=1&s=170667a&w=0&k=20&c=4iOt9_6Q1oobtQucB8hCFVGLxULEaeMVucaHZttVdCw=",
+        "price":"$110",
+        "ingredients": [
+            "Bread",
+            "Cheddar cheese",
+            "Butter"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Sushi Rolls",
+        "url":"https://images.unsplash.com/photo-1583623025817-d180a2221d0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JTIyU3VzaGklMjBSb2xsc3xlbnwwfHwwfHx8MA%3D%3D",
+        "price":"$70",
+        "ingredients": [
+            "Sushi rice",
+            "Nori sheets",
+            "Fish (like tuna or salmon)",
+            "Cucumber",
+            "Avocado",
+            "Soy sauce",
+            "Wasabi"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Quiche Lorraine",
+        "url":"https://images.unsplash.com/photo-1701197159530-80a188e34dfc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UXVpY2hlJTIwTG9ycmFpbmV8ZW58MHx8MHx8fDA%3D",
+        "price":"$125",
+        "ingredients": [
+            "Pie crust",
+            "Eggs",
+            "Heavy cream",
+            "Bacon",
+            "Swiss cheese",
+            "Onion",
+            "Salt",
+            "Pepper"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Baked Ziti",
+        "url":"https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmFrZWQlMjBaaXRpJTIyfGVufDB8fDB8fHww",
+        "price":"$90",
+        "ingredients": [
+            "Ziti pasta",
+            "Marinara sauce",
+            "Ricotta cheese",
+            "Mozzarella cheese",
+            "Parmesan cheese",
+            "Ground beef",
+            "Garlic"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Lentil Soup",
+        "url":"https://media.istockphoto.com/id/495455834/photo/red-lentil-indian-soup-with-flat-bread-masoor-dal.webp?b=1&s=170667a&w=0&k=20&c=YU2MAC9eLU2WMKpiUQSPMLDgILQUI6OuPL4sihwAFOk=",
+        "price":"$100",
+        "ingredients": [
+            "Lentils",
+            "Carrots",
+            "Celery",
+            "Tomatoes",
+            "Vegetable broth",
+            "Onion",
+            "Garlic",
+            "Cumin"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Chicken Tikka Masala",
+        "url":"https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFRpa2thJTIwTWFzYWxhfGVufDB8fDB8fHww",
+        "price":"$240",
+        "ingredients": [
+            "Chicken",
+            "Tikka masala sauce",
+            "Yogurt",
+            "Garlic",
+            "Ginger",
+            "Onion",
+            "Cilantro"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Burrito Bowl",
+        "url":"https://images.unsplash.com/photo-1716392976013-66d90cac4411?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QnVycml0byUyMEJvd2x8ZW58MHx8MHx8fDA%3D",
+        "price":"$125",
+        "ingredients": [
+            "Rice",
+            "Black beans",
+            "Corn",
+            "Chicken or beef",
+            "Salsa",
+            "Cheese",
+            "Guacamole",
+            "Sour cream"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Chicken Pot Pie",
+        "url":"https://images.unsplash.com/photo-1601000938259-9e92002320b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8JTIyQ2hpY2tlbiUyMFBvdCUyMFBpZXxlbnwwfHwwfHx8MA%3D%3D",
+        "price":"$170",
+        "ingredients": [
+            "Chicken breast",
+            "Pie crust",
+            "Mixed vegetables",
+            "Chicken broth",
+            "Heavy cream",
+            "Onion",
+            "Garlic"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Falafel",
+        "url":"https://media.istockphoto.com/id/1663973234/photo/falafal-pita-sandwich.webp?b=1&s=170667a&w=0&k=20&c=PQlaHz2CdIRhH4ndZ5Yp9qxVAeZvqSKLBZWZOu_cFAk=",
+        "price":"$90",
+        "ingredients": [
+            "Chickpeas",
+            "Garlic",
+            "Cilantro",
+            "Cumin",
+            "Coriander",
+            "Flour",
+            "Baking powder",
+            "Olive oil"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Chicken Quesadillas",
+        "url":"https://media.istockphoto.com/id/1398597918/photo/quesadilla-with-chicken-cheese-chilli-greens.webp?b=1&s=170667a&w=0&k=20&c=52tDwewgoFA2K5u1SqqKv3Lc4gIk1EH6LEEsNt4WSUI=",
+        "price":"$200",
+        "ingredients": [
+            "Tortillas",
+            "Chicken breast",
+            "Cheddar cheese",
+            "Bell peppers",
+            "Onion",
+            "Sour cream",
+            "Salsa"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Eggplant Parmesan",
+        "url":"https://media.istockphoto.com/id/636303282/photo/italian-eggplant-baked-with-mozzarella-in-tomato-sauce.webp?b=1&s=170667a&w=0&k=20&c=LKlG8SkqZFEkmXLrqX6P0gR3cyG9cYi8TmtPc0ukhO8=",
+        "price":"$120",
+        "ingredients": [
+            "Eggplant",
+            "Marinara sauce",
+            "Mozzarella cheese",
+            "Parmesan cheese",
+            "Bread crumbs",
+            "Eggs",
+            "Olive oil"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Lasagna",
+        "url":"https://media.istockphoto.com/id/1303741768/photo/italian-lasagna-with-tomato-sauce-and-cheese-served-with-tomatoes-and-spinach-light-concrete.webp?b=1&s=170667a&w=0&k=20&c=V9TED52qC4eU33xZuREvf8M2ELcnN45nNzA_eR75lfw=",
+        "price":"$50",
+        "ingredients": [
+            "Lasagna noodles",
+            "Ground Chicken",
+            "Ricotta cheese",
+            "Mozzarella cheese",
+            "Parmesan cheese",
+            "Marinara sauce",
+            "Garlic"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Minestrone Soup",
+        "url":"https://images.unsplash.com/photo-1478749485505-2a903a729c63?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWluZXN0cm9uZSUyMFNvdXAlMjJ8ZW58MHx8MHx8fDA%3D",
+        "price":"$60",
+        "ingredients": [
+            "Mixed vegetables",
+            "Kidney beans",
+            "Pasta",
+            "Tomatoes",
+            "Vegetable broth",
+            "Onion",
+            "Garlic",
+            "Herbs"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Shrimp Fried Rice",
+        "url":"https://media.istockphoto.com/id/1286999586/photo/chinese-fried-rice-with-barbecue-prawn.webp?b=1&s=170667a&w=0&k=20&c=ZWPA4ERjgoHmdF6l-vTla-A6aVjsylkyAxfucECFR2E=",
+        "price":"$80",
+        "ingredients": [
+            "Shrimp",
+            "Rice",
+            "Soy sauce",
+            "Eggs",
+            "Green onions",
+            "Carrots",
+            "Peas",
+            "Garlic"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Ratatouille",
+        "url":"https://media.istockphoto.com/id/498303420/photo/vegetable-ratatouille-baked-in-cast-iron-frying-pan-traditional-homemade.webp?b=1&s=170667a&w=0&k=20&c=Mn8Iy_iZe2Tg714ZJZbc4yQlvQa_pHUvAJ9AOGoRfwg=",
+        "price":"$80",
+        "ingredients": [
+            "Eggplant",
+            "Zucchini",
+            "Bell peppers",
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Herbs",
+            "Olive oil"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Clam Chowder",
+        "url":"https://media.istockphoto.com/id/1216691507/photo/clam-chowder.webp?b=1&s=170667a&w=0&k=20&c=3wPmFvVYmzUxylCsTlezeG0YSqKvVR0jjcrkVNDHqU8=",
+        "price":"$65",
+        "ingredients": [
+            "Clams",
+            "Potatoes",
+            "Onion",
+            "Celery",
+            "Heavy cream",
+            "Chicken broth",
+            "Butter",
+            "Thyme"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Cobb Salad",
+        "url":"https://media.istockphoto.com/id/1392470651/photo/cobb-salad-traditional-american-cuisine.webp?b=1&s=170667a&w=0&k=20&c=QGZMuJvDpSpmXHf0P_r6vav3Ja6eIUTaez9hVXhdAo0=",
+        "price":"$70",
+        "ingredients": [
+            "Chicken breast",
+            "Romaine lettuce",
+            "Bacon",
+            "Avocado",
+            "Tomatoes",
+            "Blue cheese",
+            "Hard-boiled eggs",
+            "Ranch dressing"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Stuffed Bell Peppers",
+        "url":"https://media.istockphoto.com/id/1273488253/photo/bell-peppers-of-different-colors-stuffed-with-meat.webp?b=1&s=170667a&w=0&k=20&c=tPxbpfp-pdIHBzMeTkddTDOIkgWLbM8_pAbR05783zg=",
+        "price":"$130",
+        "ingredients": [
+            "Bell peppers",
+            "Ground chicken",
+            "Rice",
+            "Tomato sauce",
+            "Onion",
+            "Garlic",
+            "Cheddar cheese"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Pasta Primavera",
+        "url":"https://media.istockphoto.com/id/624675106/photo/rotini-primavera-in-a-browned-butter-and-garlic-sauce.webp?b=1&s=170667a&w=0&k=20&c=TJ5WmB26-EMyIYgwlHzxHj3pMWWD8xL7YKZsxOmgcms=",
+        "price":"$140",
+        "ingredients": [
+            "Pasta",
+            "Mixed vegetables",
+            "Olive oil",
+            "Garlic",
+            "Parmesan cheese",
+            "Basil"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Chili Con Carne",
+        "url":"https://media.istockphoto.com/id/1285493821/photo/chile.webp?b=1&s=170667a&w=0&k=20&c=cZXv-1Zzf6mxFkJBdGiIzewmTsfsx6MimbW7_D5JXKU=",
+        "price":"$90",
+        "ingredients": [
+            "Ground chicken",
+            "Kidney beans",
+            "Tomatoes",
+            "Onion",
+            "Chili powder",
+            "Garlic",
+            "Bell peppers"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "French Toast",
+        "url":"https://media.istockphoto.com/id/171269841/photo/french-toast-with-fruit-and-syrup-on-a-marble-countertop.webp?b=1&s=170667a&w=0&k=20&c=nPGqpDgjVR_gBTyu2jR-Mi8BGuLRslTEcikM5GR6vj8=",
+        "price":"$80",
+        "ingredients": [
+            "Bread",
+            "Eggs",
+            "Milk",
+            "Sugar",
+            "Vanilla extract",
+            "Cinnamon",
+            "Butter"
+        ]
+    }
+]

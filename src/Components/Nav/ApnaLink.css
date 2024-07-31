@@ -1,0 +1,5 @@
+.isActive {
+    border-bottom: rgb(180, 61, 108) solid 5px;
+    border-radius: 10px;
+    /* transition: all 0.5s ease; */
+  }

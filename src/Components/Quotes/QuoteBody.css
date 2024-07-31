@@ -1,0 +1,20 @@
+.QuoteList{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.Quote{
+    width: 70%;
+    text-align: center;
+    box-shadow: 0 2px 10px rgb(206, 205, 205);
+    padding: 2rem;
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(113, 190, 175),rgb(114, 186, 120));
+}
+span{
+    color: rgb(77, 74, 74);
+    font-weight: bold;
+}

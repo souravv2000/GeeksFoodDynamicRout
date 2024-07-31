@@ -1,0 +1,9 @@
+.FoodsMenu{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding-top: 5rem;
+}
